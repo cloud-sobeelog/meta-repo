@@ -1,5 +1,10 @@
 {
   "projects": {
-    "emoticon": "https://github.com/cloud-sobeelog/emoticon.git"
+    "emoticon": "https://github.com/cloud-sobeelog/emoticon.git",
+    "comment": "https://github.com/cloud-sobeelog/comment.git",
+    "consumptions": "https://github.com/cloud-sobeelog/consumptions.git",
+    "user": "https://github.com/cloud-sobeelog/user.git",
+    "userview": "https://github.com/cloud-sobeelog/userview.git",
+    "friends": "https://github.com/cloud-sobeelog/friends.git"
   }
 }
