@@ -5,6 +5,7 @@
     "consumptions": "https://github.com/cloud-sobeelog/consumptions.git",
     "user": "https://github.com/cloud-sobeelog/user.git",
     "userview": "https://github.com/cloud-sobeelog/userview.git",
-    "friends": "https://github.com/cloud-sobeelog/friends.git"
+    "friends": "https://github.com/cloud-sobeelog/friends.git",
+    "manifests": "https://github.com/cloud-sobeelog/manifests.git"
   }
 }
